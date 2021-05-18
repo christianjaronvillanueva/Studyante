@@ -1,0 +1,15 @@
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\bin\Debug\net5.0\Studyante.DataAccess.deps.json
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\bin\Debug\net5.0\Studyante.DataAccess.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\bin\Debug\net5.0\Studyante.DataAccess.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\bin\Debug\net5.0\Studyante.DataAccess.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\bin\Debug\net5.0\ref\Studyante.DataAccess.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\bin\Debug\net5.0\Studyante.DataAccess.pdb
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\Studyante.DataAccess.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\Studyante.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\Studyante.DataAccess.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\Studyante.DataAccess.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\Studyante.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\Studyante.DataAccess.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\ref\Studyante.DataAccess.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\Studyante.DataAccess.pdb
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DataAccess\obj\Debug\net5.0\Studyante.DataAccess.genruntimeconfig.cache

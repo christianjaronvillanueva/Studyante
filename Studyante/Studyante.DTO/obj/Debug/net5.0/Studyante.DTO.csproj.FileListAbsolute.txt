@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\bin\Debug\net5.0\Studyante.DTO.deps.json
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\bin\Debug\net5.0\Studyante.DTO.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\bin\Debug\net5.0\ref\Studyante.DTO.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\bin\Debug\net5.0\Studyante.DTO.pdb
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\obj\Debug\net5.0\Studyante.DTO.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\obj\Debug\net5.0\Studyante.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\obj\Debug\net5.0\Studyante.DTO.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\obj\Debug\net5.0\Studyante.DTO.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\obj\Debug\net5.0\Studyante.DTO.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\obj\Debug\net5.0\Studyante.DTO.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\obj\Debug\net5.0\ref\Studyante.DTO.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.DTO\obj\Debug\net5.0\Studyante.DTO.pdb

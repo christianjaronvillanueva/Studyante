@@ -1,0 +1,17 @@
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\bin\Debug\net5.0\Studyante.Service.deps.json
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\bin\Debug\net5.0\Studyante.Service.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\bin\Debug\net5.0\ref\Studyante.Service.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\bin\Debug\net5.0\Studyante.Service.pdb
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\bin\Debug\net5.0\Studyante.DataAccess.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\bin\Debug\net5.0\Studyante.DTO.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\bin\Debug\net5.0\Studyante.DataAccess.pdb
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\bin\Debug\net5.0\Studyante.DTO.pdb
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\Studyante.Service.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\Studyante.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\Studyante.Service.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\Studyante.Service.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\Studyante.Service.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\Studyante.Service.csproj.CopyComplete
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\Studyante.Service.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\ref\Studyante.Service.dll
+C:\Users\chris\Documents\GitHub\Studyante\Studyante\Studyante.Service\obj\Debug\net5.0\Studyante.Service.pdb

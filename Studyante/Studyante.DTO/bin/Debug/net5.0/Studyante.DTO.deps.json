@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Studyante.DTO/1.0.0": {
+        "runtime": {
+          "Studyante.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Studyante.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
